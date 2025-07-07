@@ -1,6 +1,4 @@
 # RNN-for-binary-addition
-
-# RNN-GRU
 ## Specs
 # ![RNN1](specs/rnn1.png)
 
